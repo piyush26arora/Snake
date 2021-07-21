@@ -55,10 +55,10 @@ Some of these Extensions were :
 
 ```
 
-:hourglass_flowing_sand:  Lastly , I hope my application would be of some help to you all . 
+:hourglass_flowing_sand:  Lastly , I hope my application would be of some help to you all .  :milky_way:
 
 
 ```
-Thank you , happy coding :milky_way: :)
+Thank you , happy coding :)
 
 ```
