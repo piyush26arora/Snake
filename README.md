@@ -1,5 +1,5 @@
-# Nostalgic Snake Game
-:writing_hand: This is a **Snake Game Single Page Application** built using :
+# Nostalgic Snake Game :snake: :apple:
+:writing_hand: This is a **Snake Game :snake: Single Page Application** built using :
 * VanillaJS (for functionality features like Creation and Removal of Snake length Elements in the game)
 * HTML5 (for basic structure)
 * CSS3 (for styling and making UI attractive)
@@ -59,7 +59,6 @@ Some of these Extensions were :
 
 
 ```
-Thank you , happy coding 
-```
+Thank you , happy coding :milky_way: :)
 
-:milky_way: :)
+```
